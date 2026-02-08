@@ -24,7 +24,7 @@
     "releaseYear": 2019,
     "isActive": true,
     "releaseDate": "2019-10-25",
-    "imageUrl": "https://example.com/images/call-of-duty-mw.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/mw.png",
     "genre": "First-Person Shooter",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -42,7 +42,7 @@
     "releaseYear": 2013,
     "isActive": true,
     "releaseDate": "2013-09-17",
-    "imageUrl": "https://example.com/images/gta-v.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/gta.png",
     "genre": "Action-Adventure",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -60,7 +60,7 @@
     "releaseYear": 2020,
     "isActive": true,
     "releaseDate": "2020-07-17",
-    "imageUrl": "https://example.com/images/ghost-of-tsushima.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/ghost_of_tsusima.png",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation", "PC"],
     "publisher": {
@@ -78,7 +78,7 @@
     "releaseYear": 2015,
     "isActive": true,
     "releaseDate": "2015-05-19",
-    "imageUrl": "https://example.com/images/witcher-3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/withcher.png",
     "genre": "Action RPG",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "publisher": {
@@ -96,7 +96,7 @@
     "releaseYear": 2018,
     "isActive": true,
     "releaseDate": "2018-10-26",
-    "imageUrl": "https://example.com/images/rdr2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/rdr2.png",
     "genre": "Action-Adventure",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -114,7 +114,7 @@
     "releaseYear": 2022,
     "isActive": true,
     "releaseDate": "2022-09-30",
-    "imageUrl": "https://example.com/images/fifa-23.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/fifa23.png",
     "genre": "Sports Simulation",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "publisher": {
@@ -132,7 +132,7 @@
     "releaseYear": 2011,
     "isActive": true,
     "releaseDate": "2011-11-18",
-    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/minecraft.png",
     "genre": "Sandbox",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "publisher": {
@@ -150,7 +150,7 @@
     "releaseYear": 2022,
     "isActive": true,
     "releaseDate": "2022-02-25",
-    "imageUrl": "https://example.com/images/elden-ring.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/eldenring.png",
     "genre": "Action RPG",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -168,7 +168,7 @@
     "releaseYear": 2020,
     "isActive": true,
     "releaseDate": "2020-11-10",
-    "imageUrl": "https://example.com/images/ac-valhalla.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/assasinscreedValhalla.png",
     "genre": "Action RPG",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -186,7 +186,7 @@
     "releaseYear": 2020,
     "isActive": true,
     "releaseDate": "2020-06-19",
-    "imageUrl": "https://example.com/images/tlou2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/lastofus.png",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation", "PC"],
     "publisher": {
@@ -204,7 +204,7 @@
     "releaseYear": 2019,
     "isActive": true,
     "releaseDate": "2019-02-04",
-    "imageUrl": "https://example.com/images/apex-legends.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/apex.png",
     "genre": "Battle Royale",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "publisher": {
@@ -222,7 +222,7 @@
     "releaseYear": 2020,
     "isActive": true,
     "releaseDate": "2020-12-10",
-    "imageUrl": "https://example.com/images/cyberpunk-2077.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/cyberpunk.png",
     "genre": "Action RPG",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
@@ -240,7 +240,7 @@
     "releaseYear": 2021,
     "isActive": true,
     "releaseDate": "2021-12-08",
-    "imageUrl": "https://example.com/images/halo-infinite.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/halllo-infinite.png",
     "genre": "First-Person Shooter",
     "platforms": ["PC", "Xbox"],
     "publisher": {
@@ -258,7 +258,7 @@
     "releaseYear": 2022,
     "isActive": true,
     "releaseDate": "2022-10-04",
-    "imageUrl": "https://example.com/images/overwatch-2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/overwatch2.png",
     "genre": "Hero Shooter",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "publisher": {
