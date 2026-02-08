@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PUB-001",
+    "name": "Ubisoft",
+    "logoUrl": "https://example.com/images/publishers/ubisoft-logo.jpg",
+    "foundedYear": 1986,
+    "headquarters": "Montreuil, France"
+  },
+  {
+    "id": "PUB-002",
+    "name": "Activision",
+    "logoUrl": "https://example.com/images/publishers/activision-logo.jpg",
+    "foundedYear": 1979,
+    "headquarters": "Santa Monica, California"
+  },
+  {
+    "id": "PUB-003",
+    "name": "Rockstar Games",
+    "logoUrl": "https://example.com/images/publishers/rockstar-logo.jpg",
+    "foundedYear": 1998,
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id": "PUB-004",
+    "name": "Sony Interactive Entertainment",
+    "logoUrl": "https://example.com/images/publishers/sony-logo.jpg",
+    "foundedYear": 1993,
+    "headquarters": "San Mateo, California"
+  },
+  {
+    "id": "PUB-005",
+    "name": "CD Projekt",
+    "logoUrl": "https://example.com/images/publishers/cd-projekt-logo.jpg",
+    "foundedYear": 1994,
+    "headquarters": "Warsaw, Poland"
+  },
+  {
+    "id": "PUB-006",
+    "name": "Electronic Arts",
+    "logoUrl": "https://example.com/images/publishers/ea-logo.jpg",
+    "foundedYear": 1982,
+    "headquarters": "Redwood City, California"
+  },
+  {
+    "id": "PUB-007",
+    "name": "Mojang Studios",
+    "logoUrl": "https://example.com/images/publishers/mojang-logo.jpg",
+    "foundedYear": 2009,
+    "headquarters": "Stockholm, Sweden"
+  },
+  {
+    "id": "PUB-008",
+    "name": "Bandai Namco Entertainment",
+    "logoUrl": "https://example.com/images/publishers/bandai-namco-logo.jpg",
+    "foundedYear": 2006,
+    "headquarters": "Tokyo, Japan"
+  },
+  {
+    "id": "PUB-009",
+    "name": "Xbox Game Studios",
+    "logoUrl": "https://example.com/images/publishers/xbox-studios-logo.jpg",
+    "foundedYear": 2000,
+    "headquarters": "Redmond, Washington"
+  },
+  {
+    "id": "PUB-010",
+    "name": "Blizzard Entertainment",
+    "logoUrl": "https://example.com/images/publishers/blizzard-logo.jpg",
+    "foundedYear": 1991,
+    "headquarters": "Irvine, California"
+  }
+]

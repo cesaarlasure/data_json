@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GAME-001",
+    "name": "Rainbow Six Siege",
+    "description": "A tactical shooter game emphasizing environmental destruction and cooperation between players in close-quarters combat.",
+    "releaseYear": 2015,
+    "isActive": true,
+    "releaseDate": "2015-12-01",
+    "imageUrl": "https://example.com/images/rainbow-six-siege.jpg",
+    "genre": "Tactical Shooter",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-001",
+      "name": "Ubisoft",
+      "logoUrl": "https://example.com/images/publishers/ubisoft-logo.jpg",
+      "foundedYear": 1986,
+      "headquarters": "Montreuil, France"
+    }
+  },
+  {
+    "id": "GAME-002",
+    "name": "Call of Duty: Modern Warfare",
+    "description": "A first-person shooter reboot of the iconic Modern Warfare series with realistic combat and immersive multiplayer modes.",
+    "releaseYear": 2019,
+    "isActive": true,
+    "releaseDate": "2019-10-25",
+    "imageUrl": "https://example.com/images/call-of-duty-mw.jpg",
+    "genre": "First-Person Shooter",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-002",
+      "name": "Activision",
+      "logoUrl": "https://example.com/images/publishers/activision-logo.jpg",
+      "foundedYear": 1979,
+      "headquarters": "Santa Monica, California"
+    }
+  },
+  {
+    "id": "GAME-003",
+    "name": "Grand Theft Auto V",
+    "description": "An open-world action-adventure game set in the fictional state of San Andreas, featuring three playable protagonists.",
+    "releaseYear": 2013,
+    "isActive": true,
+    "releaseDate": "2013-09-17",
+    "imageUrl": "https://example.com/images/gta-v.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-003",
+      "name": "Rockstar Games",
+      "logoUrl": "https://example.com/images/publishers/rockstar-logo.jpg",
+      "foundedYear": 1998,
+      "headquarters": "New York City, New York"
+    }
+  },
+  {
+    "id": "GAME-004",
+    "name": "Ghost of Tsushima",
+    "description": "An action-adventure game set in feudal Japan during the Mongol invasion, following a samurai's quest to protect his homeland.",
+    "releaseYear": 2020,
+    "isActive": true,
+    "releaseDate": "2020-07-17",
+    "imageUrl": "https://example.com/images/ghost-of-tsushima.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PlayStation", "PC"],
+    "publisher": {
+      "id": "PUB-004",
+      "name": "Sony Interactive Entertainment",
+      "logoUrl": "https://example.com/images/publishers/sony-logo.jpg",
+      "foundedYear": 1993,
+      "headquarters": "San Mateo, California"
+    }
+  },
+  {
+    "id": "GAME-005",
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "An expansive open-world RPG following Geralt of Rivia as he searches for his adopted daughter in a war-torn fantasy world.",
+    "releaseYear": 2015,
+    "isActive": true,
+    "releaseDate": "2015-05-19",
+    "imageUrl": "https://example.com/images/witcher-3.jpg",
+    "genre": "Action RPG",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "publisher": {
+      "id": "PUB-005",
+      "name": "CD Projekt",
+      "logoUrl": "https://example.com/images/publishers/cd-projekt-logo.jpg",
+      "foundedYear": 1994,
+      "headquarters": "Warsaw, Poland"
+    }
+  },
+  {
+    "id": "GAME-006",
+    "name": "Red Dead Redemption 2",
+    "description": "An epic tale of life in America's unforgiving heartland, following outlaw Arthur Morgan and the Van der Linde gang.",
+    "releaseYear": 2018,
+    "isActive": true,
+    "releaseDate": "2018-10-26",
+    "imageUrl": "https://example.com/images/rdr2.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-003",
+      "name": "Rockstar Games",
+      "logoUrl": "https://example.com/images/publishers/rockstar-logo.jpg",
+      "foundedYear": 1998,
+      "headquarters": "New York City, New York"
+    }
+  },
+  {
+    "id": "GAME-007",
+    "name": "FIFA 23",
+    "description": "The world's most popular football simulation game featuring authentic teams, players, and stadiums from around the globe.",
+    "releaseYear": 2022,
+    "isActive": true,
+    "releaseDate": "2022-09-30",
+    "imageUrl": "https://example.com/images/fifa-23.jpg",
+    "genre": "Sports Simulation",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "publisher": {
+      "id": "PUB-006",
+      "name": "Electronic Arts",
+      "logoUrl": "https://example.com/images/publishers/ea-logo.jpg",
+      "foundedYear": 1982,
+      "headquarters": "Redwood City, California"
+    }
+  },
+  {
+    "id": "GAME-008",
+    "name": "Minecraft",
+    "description": "A sandbox game where players explore, build, and survive in a procedurally generated 3D world made of blocks.",
+    "releaseYear": 2011,
+    "isActive": true,
+    "releaseDate": "2011-11-18",
+    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "genre": "Sandbox",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "publisher": {
+      "id": "PUB-007",
+      "name": "Mojang Studios",
+      "logoUrl": "https://example.com/images/publishers/mojang-logo.jpg",
+      "foundedYear": 2009,
+      "headquarters": "Stockholm, Sweden"
+    }
+  },
+  {
+    "id": "GAME-009",
+    "name": "Elden Ring",
+    "description": "A challenging action RPG set in the Lands Between, created by FromSoftware in collaboration with George R.R. Martin.",
+    "releaseYear": 2022,
+    "isActive": true,
+    "releaseDate": "2022-02-25",
+    "imageUrl": "https://example.com/images/elden-ring.jpg",
+    "genre": "Action RPG",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-008",
+      "name": "Bandai Namco Entertainment",
+      "logoUrl": "https://example.com/images/publishers/bandai-namco-logo.jpg",
+      "foundedYear": 2006,
+      "headquarters": "Tokyo, Japan"
+    }
+  },
+  {
+    "id": "GAME-010",
+    "name": "Assassin's Creed Valhalla",
+    "description": "Embark on a Viking epic as Eivor, leading your clan from Norway to settle in the hostile lands of England.",
+    "releaseYear": 2020,
+    "isActive": true,
+    "releaseDate": "2020-11-10",
+    "imageUrl": "https://example.com/images/ac-valhalla.jpg",
+    "genre": "Action RPG",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-001",
+      "name": "Ubisoft",
+      "logoUrl": "https://example.com/images/publishers/ubisoft-logo.jpg",
+      "foundedYear": 1986,
+      "headquarters": "Montreuil, France"
+    }
+  },
+  {
+    "id": "GAME-011",
+    "name": "The Last of Us Part II",
+    "description": "A visceral post-apocalyptic action-adventure game following Ellie on a journey of revenge and redemption.",
+    "releaseYear": 2020,
+    "isActive": true,
+    "releaseDate": "2020-06-19",
+    "imageUrl": "https://example.com/images/tlou2.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PlayStation", "PC"],
+    "publisher": {
+      "id": "PUB-004",
+      "name": "Sony Interactive Entertainment",
+      "logoUrl": "https://example.com/images/publishers/sony-logo.jpg",
+      "foundedYear": 1993,
+      "headquarters": "San Mateo, California"
+    }
+  },
+  {
+    "id": "GAME-012",
+    "name": "Apex Legends",
+    "description": "A free-to-play battle royale game featuring unique characters with special abilities battling for glory and survival.",
+    "releaseYear": 2019,
+    "isActive": true,
+    "releaseDate": "2019-02-04",
+    "imageUrl": "https://example.com/images/apex-legends.jpg",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "publisher": {
+      "id": "PUB-006",
+      "name": "Electronic Arts",
+      "logoUrl": "https://example.com/images/publishers/ea-logo.jpg",
+      "foundedYear": 1982,
+      "headquarters": "Redwood City, California"
+    }
+  },
+  {
+    "id": "GAME-013",
+    "name": "Cyberpunk 2077",
+    "description": "An open-world RPG set in Night City, a megalopolis obsessed with power, glamour, and body modification.",
+    "releaseYear": 2020,
+    "isActive": true,
+    "releaseDate": "2020-12-10",
+    "imageUrl": "https://example.com/images/cyberpunk-2077.jpg",
+    "genre": "Action RPG",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "publisher": {
+      "id": "PUB-005",
+      "name": "CD Projekt",
+      "logoUrl": "https://example.com/images/publishers/cd-projekt-logo.jpg",
+      "foundedYear": 1994,
+      "headquarters": "Warsaw, Poland"
+    }
+  },
+  {
+    "id": "GAME-014",
+    "name": "Halo Infinite",
+    "description": "Master Chief returns in this first-person shooter, exploring a mysterious ringworld and facing a dangerous new enemy.",
+    "releaseYear": 2021,
+    "isActive": true,
+    "releaseDate": "2021-12-08",
+    "imageUrl": "https://example.com/images/halo-infinite.jpg",
+    "genre": "First-Person Shooter",
+    "platforms": ["PC", "Xbox"],
+    "publisher": {
+      "id": "PUB-009",
+      "name": "Xbox Game Studios",
+      "logoUrl": "https://example.com/images/publishers/xbox-studios-logo.jpg",
+      "foundedYear": 2000,
+      "headquarters": "Redmond, Washington"
+    }
+  },
+  {
+    "id": "GAME-015",
+    "name": "Overwatch 2",
+    "description": "A team-based multiplayer shooter featuring diverse heroes with unique abilities battling across futuristic battlefields.",
+    "releaseYear": 2022,
+    "isActive": true,
+    "releaseDate": "2022-10-04",
+    "imageUrl": "https://example.com/images/overwatch-2.jpg",
+    "genre": "Hero Shooter",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "publisher": {
+      "id": "PUB-010",
+      "name": "Blizzard Entertainment",
+      "logoUrl": "https://example.com/images/publishers/blizzard-logo.jpg",
+      "foundedYear": 1991,
+      "headquarters": "Irvine, California"
+    }
+  }
+]
