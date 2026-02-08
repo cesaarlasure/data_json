@@ -6,7 +6,7 @@
     "releaseYear": 2015,
     "isActive": true,
     "releaseDate": "2015-12-01",
-    "imageUrl": "https://example.com/images/rainbow-six-siege.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cesaarlasure/data_json/refs/heads/main/images/rainbow.png",
     "genre": "Tactical Shooter",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "publisher": {
